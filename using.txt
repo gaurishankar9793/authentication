@@ -1,0 +1,9 @@
+we can use all the remaing auth
+bootstartp react 
+useREF
+create context
+asyn fucntion catch and all
+routing 
+link
+useHistory
+privateRoute to disable acces to dashboard 
