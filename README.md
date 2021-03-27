@@ -1,7 +1,7 @@
 ## Authentication APP 
 
 Authentication is crucial for nearly every application. It can also be incredibly difficult to create a good authentication solution. This is where firebase comes in. Firebase makes it incredibly easy to create a secure authentication solution. Here with the help of Firebase I have created an Single Page React App which helps a user Signup,Login ,reset Password,Update Credentials.
-## App is deployed. Click  [https://auth-development-20dcb.web.app/login](Here) to have a look. 
+## App is deployed. Click  [Here](https://auth-development-20dcb.web.app/login) to have a look. 
 
 ## Available Scripts
 
