@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## Authentication APP 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Authentication is crucial for nearly every application. It can also be incredibly difficult to create a good authentication solution. This is where firebase comes in. Firebase makes it incredibly easy to create a secure authentication solution. Here with the help of Firebase I have created an Single Page React App which helps a user Signup,Login ,reset Password,Update Credentials.
+App is deployed. Open [](https://auth-development-20dcb.web.app/login) to have a look. 
 
 ## Available Scripts
 
